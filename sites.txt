@@ -40,6 +40,7 @@ rss.social
 lumidify.org
 wasi.ovh
 devitti.bz
+bsd-audit.com
 hackaday.com
 treehouse.net
 savemystuff.net
@@ -98,6 +99,7 @@ isight.se
 sykose.xyz
 www.imsalone.com
 peppercarrot.com
+michael-boelen.com
 virgool.io
 kde.org
 spec.matrix.org
@@ -204,6 +206,7 @@ trivox.sh
 rettilatdø.dk
 www.empatia.uy
 bluechinchompa.com
+foss-privacy-bigtech.nl
 nostrwat.ch
 votossenadores.com.br
 marioheringer.com.br
@@ -325,6 +328,7 @@ tylenol.goeshard.org
 goeshard.neocities.org
 bnw.pages.dev
 forum.bladerunners.net
+opensource.vooreenbeginner.nl
 propagandahat.com
 kaimac.org
 matth-ijs.nl
